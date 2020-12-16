@@ -17,6 +17,6 @@ Tech Stack - Python, Django
 2. http://localhost:8000/login - Login Page
 3. http://localhost:8000//register - Sign Up Page
 4. http://localhost:8000/dashboard - List of shot_url created by user and **Form** to create new **short_url** 
-5. http://localhost:8000/dashboard/<int:pk> - Edit short_url with **id-pk**
-6. http://localhost:8000/<str:string>/stats - Stats of **short_url=query**
+5. http://localhost:8000/dashboard/<int : pk> - Edit short_url with **id-pk**
+6. http://localhost:8000/<str : string>/stats - Stats of **short_url=query**
 
